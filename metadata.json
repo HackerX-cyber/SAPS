@@ -1,0 +1,8 @@
+{
+  "name": "Sheikh-ul-Aalam Public School Kangan",
+  "description": "Official website for Sheikh-ul-Aalam Public School Kangan (SAPS) - Stand With Us To Build.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
